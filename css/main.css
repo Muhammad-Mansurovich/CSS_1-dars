@@ -1,0 +1,16 @@
+/* selector: tag,class,id */
+
+p{
+    color: green; /* css code=> property: value; */
+}
+.text{
+    color: brown;
+}
+.font{
+    font-size: 30px;
+}
+#bg{
+    background-color: black;
+    font-size: 25px;
+    color: white;
+}

@@ -1,0 +1,51 @@
+body{
+  background-color: aqua;
+}
+p{
+  color: red;
+  background-color: white;
+}
+.text{
+  color: blueviolet;
+  background-color: antiquewhite;
+  font-size: 30px;
+}
+.text2{
+  color: black;
+  background-color: whitesmoke;
+  font-size: 20px;
+}
+.text3{
+  background-color: white;
+  color: blue;
+  font-size: 15px;
+}
+.text4{
+  background-color: darkcyan;
+  color: black;
+  font-size: 12px;
+}
+.text5{
+  background-color: aqua;
+  color: darkcyan;
+  font-size: 10px;
+}
+
+.text6{
+  background-color: chartreuse;
+  color: darkcyan;
+  font-size: 8px;
+}
+.text7{
+  background-color: darkgray;
+  color: black;
+  font-size: 6px;
+}
+
+#bg{
+
+  background-color: black;
+  color: white;
+  font-size: 15px;
+
+}
